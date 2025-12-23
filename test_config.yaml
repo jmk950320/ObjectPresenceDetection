@@ -1,0 +1,7 @@
+video: "/home/kjm/foreground_segmentation/dataset/video/allnormal2.avi"
+vis_output_dir: "test_vis_output"
+feat_output_dir: "test_feat_output"
+model: "resnet50"
+start: 0
+end: 2
+pca_dim: 3
